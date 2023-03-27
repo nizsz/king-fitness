@@ -17,12 +17,10 @@
 
 <br>
 
-## Demonstration
+## 📷 Demonstration
 <p align="center">
   <img alt="Project King Fitness" src=".github/preview.png" width="100%">
 </p>
-
-
 
 
 ## 🚀 Technologies
